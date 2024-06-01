@@ -16,7 +16,7 @@ html {
   font-family: 'Fira Sans Condensed', sans-serif;
   font-size: 18px;
   background-color: #1b1919;
-  align-content: center;
+  padding: 133px 30px 133px;
 }
 
 h1,
@@ -42,7 +42,7 @@ ol {
   display: flex;
   gap: 30px;
   align-items: flex-start;
-  width: 1140px;
+  height: 534px;
 }
 
 .result {
